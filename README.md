@@ -16,5 +16,5 @@ Run project by just one click
 
 Tools and Technologies USed
 
-1. Pyhton
+1. Python
 2. Matplotlib
